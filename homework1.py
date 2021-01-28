@@ -1,3 +1,6 @@
+# Audrey Yang 
+# yanga267@gwu.edu
+
 #question1
 q1 = ['red', 'blue']
 
